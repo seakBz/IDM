@@ -1,0 +1,5 @@
+﻿+ Nhấn phải vào biểu tượng IDM ở khay hệ thống chọn Exit
++ Chạy file idman623build11.exe để tiến hành cài đặt như bình thường.
++ Nếu sau khi cài IDM tự chạy lên thì Nhấn phải vào biểu tượng IDM ở khay hệ thống chọn Exit
++ Nếu bạn đang dùng Windows 64bit thì chạy file "64bit Patch build 11.exe" để crack, nếu bạn đang dùng windows 32 bit thì chạy file "32bit Patch build 11.exe"
+Chúc bạn thành công - SinhVienIT.Net
